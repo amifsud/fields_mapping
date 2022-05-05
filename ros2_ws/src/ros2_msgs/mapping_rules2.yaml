@@ -1,0 +1,10 @@
+-
+    ros1_package_name: 'ros1_msgs'
+    ros1_message_name: 'Example'
+    ros2_package_name: 'ros2_msgs'
+    ros2_message_name: 'Example1'
+    fields_2_to_1:
+        w: 'a'
+        x: 'b'
+        y: 'c'
+        z: 'd'
